@@ -1,8 +1,8 @@
-##Hello there 👋🏻!
+## Hello there 👋🏻!
 I'm Stav Corcos, a passionate programmer of all sorts! Feel free to check out some of my latest works below.
 I’m currently reworking MEGA entirely 😓. Expect a big patch... in the future.
 
-###Languages and Tools:
+### Languages and Tools:
 ![HTML](https://img.shields.io/badge/HTML-2E3440?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-2E3440?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-2E3440?style=for-the-badge&logo=javascript)

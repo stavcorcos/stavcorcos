@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Hello there! I'm Stav Corcos, a passionate programmer of all sorts! Feel free to check out some of my latest works below.
+I’m currently reworking MEGA entirely 😓. Expect a big patch... in the future.
+
+Languages and Tools:
+HTML CSS JavaScript Ant Design Material-UI Styled-Components React Redux Node Express PostgreSQL SQLite npm git Github Postman VS CodePython Netlify Vercel Heroku

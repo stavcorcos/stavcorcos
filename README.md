@@ -1,7 +1,7 @@
 ## Hello there 👋🏻!
 I'm Stav Corcos, a passionate programmer of all sorts! Feel free to check out some of my latest works below.
 
-I’m currently reworking MEGA entirely 😓. Expect a big patch... in the future.
+Currently working as a Fullstack Web Developer.
 
 ### Languages and Tools:
 ![HTML](https://img.shields.io/badge/HTML-2E3440?style=for-the-badge&logo=html5)
